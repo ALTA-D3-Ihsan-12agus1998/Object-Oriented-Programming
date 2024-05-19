@@ -1,4 +1,4 @@
-Buatlah code dengan pendekatan Object Oriented Programming (OOP)!f
+Buatlah code dengan pendekatan Object Oriented Programming (OOP)!
 
 Easy Challenge (Menghitung Volume)
 
@@ -16,4 +16,4 @@ Output :
 	Volume
 	Kubus : 1000
 	Balok : 180
-	Tabung : 1540
+	Tabung : 1539
